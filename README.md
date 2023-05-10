@@ -101,7 +101,3 @@ python manage.py test
 ## Deployment
 
 This project can be deployed on various cloud platforms such as Heroku, Google Cloud, AWS, or Azure. Please refer to the respective platform's documentation for deployment instructions.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
